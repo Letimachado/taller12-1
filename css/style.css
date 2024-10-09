@@ -23,6 +23,23 @@ main {
     color: orange;
 }
 
-.offcanvas-top{
+
+
+#offcanvasTop{
+    color: white;
+    background-color: black;
     height: fit-content;
+}
+
+.dropdown-menu{
+    background-color: black;
+}
+
+.dropdown-item{
+    background-color: black;
+    color: orange;
+}
+
+.dropdown-item:hover{
+    background-color: gray;
 }
